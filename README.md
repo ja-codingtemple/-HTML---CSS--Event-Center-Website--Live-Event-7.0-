@@ -3,7 +3,7 @@
 Feel free to use this as starter code for your project.
 You can either clone the repository or download the zip file.
 
-# What you still need to do to complete this project
+## What you still need to do to complete this project
 - Add an image to your welcome section on ``index.html``
 - Create a table on ``menu.html`` to display a food menu. There should be at least two category headers and two rows per category.
 - Embed a Google Map or map image in ``location.html`` alongside the event address and hours or nearby landmarks. (Make sure this is centered.)
